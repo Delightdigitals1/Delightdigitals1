@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-  - [Active Direcory Home Lab](https://github.com/delightdigitals1/)
- - [Hello World](https://github.com/delightdigitals1/)
-
+  - [AI Solutions Website](https://Kby-ai.com)
+ - [Real Estate Listing Website](https://Rentalsinohio.com)
+ - [Solar Energy Company Website](https://Equitysunpower.com)
 
 <h2>📺 Certifications</h2>
 
