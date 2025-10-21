@@ -14,13 +14,13 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][upwork]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [upwork]: https://www.upwork.com/freelancers/~01e02b75d7ae298865?mp_source=share
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/bims_tech_/?utm_source=qr&r=nametag
+[instagram]: https://www.instagram.com/delight_digitals/?utm_source=qr&r=nametag
 [linkedin]: https://www.linkedin.com/in/olatunde-semiu-97261b299/
 
 <!--
